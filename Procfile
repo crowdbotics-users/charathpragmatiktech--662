@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT charathpragmatiktech__662.wsgi:application
